@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidciungan
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Manual testing
+- 🌱 I’m currently learning Software Testing
 - 💞️ I’m looking to collaborate on any project I might be able to learn from.
 - 📫 How to reach me davidciungan@yahoo.com
 
